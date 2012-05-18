@@ -1,0 +1,72 @@
+#full-content{
+    margin: 50px;
+}
+
+#main-content{
+    background-color: #DDD;
+    height: 300px;
+}
+
+.main-wrapper{
+    margin: 5px 0 5px 450px;    
+}
+.main-wrapper h1{
+    font-family: "comic Sans MS";
+    color:#333;
+}
+footer .main-wrapper p{
+    font-family : monospace;
+    margin-left: 80px;
+    color:#333;
+}
+#container_list{
+        left: 45px;
+        position: relative;
+        top: 47px;   }
+    #n1 {
+        background: url("../img/jquery.selectBox-arrow.gif") no-repeat scroll 95% center #FFFFFF;
+        border: 1px solid #999999;
+        border-radius: 4px 4px 4px 4px;
+        color: gray;
+        height: 20px;
+        margin-bottom: -16px;
+        padding: 2px 10px;
+        width: 170px;
+    }
+    #n1:hover{
+        cursor: pointer;
+    }
+    ul#lista_select{
+        background: none repeat scroll 0 0 #FFFFFF;
+        border: 1px solid #999999;
+        border-radius: 4px 4px 4px 4px;
+        list-style-type: none;
+        padding-left: 0;
+        width: 190px;
+    }
+    ul#lista_select li{
+        line-height: 30px;
+        margin-left: 0;
+        padding-left: 0;
+        width: 190px;
+    }
+    ul#lista_select li:hover{
+        background-color: #66cbff;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    ul#lista_select li a{
+        color: gray;
+        display: block;
+        margin-left: 0;
+        padding-left: 10px;
+        text-decoration: none;
+        width: 180px;
+    }
+    ul#lista_select li a:hover{
+        color: #ffffff;
+    }
+    #doblel{
+        line-height: 20px !important;
+        padding-bottom: 5px;
+    }
